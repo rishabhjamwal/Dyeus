@@ -1,0 +1,568 @@
+.currentEpoch1 {
+    line-height: 25px;
+    font-weight: 600;
+  }
+  .currentEpoch {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .b {
+    line-height: 37px;
+  }
+  .p {
+    margin: 0;
+    font-size: var(--font-size-4xl);
+  }
+  .currentEpoch258Container {
+    position: absolute;
+    top: 98.59px;
+    right: 21rem;
+    font-size: var(--font-size-2xl);
+    justify-content: center;
+    align-items: center;
+  }
+  .b1 {
+    line-height: 40px;
+  }
+  .nextEpochIn {
+    margin: 0;
+    font-size: var(--font-size-2xl);
+  }
+  .nextEpochInContainer {
+    position: absolute;
+    top: 171.59px;
+    left: 979px;
+    font-size: var(--font-size-4xl);
+  }
+  .macbookAir1Child {
+    position: absolute;
+    top: 166.34px;
+    left: 953px;
+    width: 185.01px;
+    height: 0.5px;
+  }
+  .lineIcon,
+  .macbookAir1Inner,
+  .macbookAir1Item {
+    position: absolute;
+    top: 84.34px;
+    left: 141px;
+    width: 970px;
+    height: 0.5px;
+  }
+  .lineIcon,
+  .macbookAir1Inner {
+    top: 194.34px;
+    left: 152px;
+    width: 352px;
+  }
+  .lineIcon {
+    top: 251.34px;
+  }
+  .macbookAir1Child1,
+  .macbookAir1Child2,
+  .macbookAir1Child3 {
+    position: absolute;
+    top: 308.34px;
+    left: 205px;
+    width: 299px;
+    height: 0.5px;
+  }
+  .macbookAir1Child2,
+  .macbookAir1Child3 {
+    top: 137.34px;
+  }
+  .macbookAir1Child3 {
+    top: 239.34px;
+    left: 982px;
+    width: 128px;
+  }
+  .unity,
+  .unity1 {
+    position: absolute;
+    top: 149.59px;
+    left: 161px;
+    font-size: var(--font-size-sm);
+  }
+  .unity1 {
+    top: 209.59px;
+  }
+  .unity2,
+  .unity3 {
+    position: absolute;
+    top: 207.59px;
+    left: 230px;
+    font-weight: 600;
+  }
+  .unity3 {
+    left: 313px;
+  }
+  .btcb {
+    margin: 0;
+  }
+  .unity4,
+  .unity5 {
+    position: absolute;
+  }
+  .unity4 {
+    top: 207.59px;
+    left: 367px;
+    font-weight: 600;
+  }
+  .unity5 {
+    top: 267.59px;
+    left: 162px;
+    font-size: var(--font-size-sm);
+  }
+  .unity6,
+  .unity7,
+  .unity8 {
+    position: absolute;
+    top: 265.59px;
+    left: 230px;
+    font-weight: 600;
+  }
+  .unity7,
+  .unity8 {
+    left: 317px;
+  }
+  .unity8 {
+    left: 374px;
+  }
+  .lastEpochTwap {
+    font-weight: 300;
+  }
+  .span {
+    font-family: var(--font-nunito);
+  }
+  .span1 {
+    font-weight: 600;
+    color: var(--color-mediumspringgreen);
+  }
+  .lastEpochTwapContainer,
+  .unitePricetwap {
+    position: absolute;
+    top: 292.59px;
+    left: 974px;
+  }
+  .unitePricetwap {
+    top: 248.59px;
+    left: 996px;
+  }
+  .b2 {
+    color: var(--color-mediumspringgreen);
+  }
+  .tvl5002412 {
+    position: absolute;
+    top: 270.59px;
+    left: 995px;
+  }
+  .unity10,
+  .unity11,
+  .unity9 {
+    position: absolute;
+    top: 147.59px;
+    left: 374px;
+    font-weight: 600;
+  }
+  .unity10,
+  .unity11 {
+    left: 233px;
+  }
+  .unity11 {
+    left: 314px;
+  }
+  .bombFinanceSummary {
+    position: relative;
+    top: 50px;
+    
+    font-size: var(--font-size-3xl);
+    
+    text-align: center;
+    justify-content: center;
+    right: 3rem;
+  }
+  .unity12 {
+    left: 397px;
+  }
+  .unity12,
+  .unity13,
+  .unity14 {
+    position: absolute;
+    top: 117.59px;
+    font-size: var(--font-size-xs);
+  }
+  .unity13 {
+    left: 226px;
+    text-align: left;
+  }
+  .unity14 {
+    left: 306px;
+  }
+  .macbookAir1 {
+    position: relative;
+    background-color: var(--color-gray-100);
+    width: 100%;
+    height: 832px;
+   
+    text-align: center;
+    justify-content: center;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    font-family: var(--font-nunito);
+ 
+  
+    
+  }
+  .part2Child {
+    position: absolute;
+    top: 187.57px;
+    left: 116px;
+    border-radius: var(--br-sm);
+    width: 646px;
+    height: 202px;
+  }
+  .part2Item {
+    position: absolute;
+    top: 256.32px;
+    left: 188px;
+    width: 542px;
+    height: 0.5px;
+  }
+  .boardroom {
+    position: absolute;
+    top: 199.57px;
+    left: 188.29px;
+    font-size: var(--font-size-3xl);
+  }
+  .bsharesIcon,
+  .bsharesIcon1 {
+    position: absolute;
+    top: 201.57px;
+    left: 132px;
+    width: 48px;
+    height: 48px;
+    object-fit: cover;
+  }
+  .bsharesIcon1 {
+    top: 20.57px;
+    left: 0;
+    width: 18px;
+    height: 18px;
+  }
+  .yourStake {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .span {
+    font-size: var(--font-size-xl);
+    font-weight: 600;
+    font-family: var(--font-nunito);
+  }
+  .p1 {
+    margin: 0;
+  }
+  .yourStake60000Container {
+    position: absolute;
+    top: 0;
+    left: 4px;
+    white-space: pre-wrap;
+  }
+  .bombIcon,
+  .bsharesParent {
+    position: absolute;
+    top: 307px;
+    left: 268px;
+    width: 78px;
+    height: 60px;
+  }
+  .bombIcon {
+    top: 22.57px;
+    left: 0;
+    width: 18px;
+    height: 18px;
+    object-fit: cover;
+  }
+  .earned1660441329888Parent {
+    position: absolute;
+    top: 307px;
+    left: 377px;
+    width: 104px;
+    height: 60px;
+  }
+  .stakeBshareAnd {
+    position: absolute;
+    top: 231.57px;
+    left: 188.29px;
+  }
+  .depositButtons,
+  .withdrawButtons {
+    width: 106px;
+    position: absolute;
+    top: 304px;
+    left: 637px;
+  }
+  .depositButtons {
+    width: 107px;
+    left: 526px;
+  }
+  .span3 {
+    font-size: var(--font-size-xl);
+  }
+  .span2 {
+    font-weight: 600;
+  }
+  .p4 {
+    margin: 0;
+    font-size: var(--font-size-3xl);
+  }
+  .dailyReturns2Container,
+  .part2Inner {
+    position: absolute;
+    top: 307px;
+    left: 148px;
+  }
+  .part2Inner {
+    top: 206.57px;
+    left: 313px;
+    border-radius: var(--br-xs);
+    background-color: rgba(0, 232, 162, 0.25);
+    filter: blur(5px);
+    border: 1px solid var(--color-mediumspringgreen-100);
+    box-sizing: border-box;
+    width: 101px;
+    height: 16px;
+  }
+  .recommended {
+    position: relative;
+    font-weight: 600;
+  }
+  .recommendedWrapper {
+    position: absolute;
+    top: 206.57px;
+    left: 313px;
+    border-radius: var(--br-xs);
+    background-color: rgba(0, 232, 162, 0.5);
+    width: 101px;
+    height: 16px;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-md);
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: var(--font-size-sm);
+  }
+  .span4 {
+    font-size: var(--font-size-xl);
+    font-weight: 600;
+  }
+  .bsharesIcon2,
+  .totalStaked7232Container {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .bsharesIcon2 {
+    top: 2px;
+    left: 86px;
+    width: 16px;
+    height: 16px;
+    object-fit: cover;
+  }
+  .totalStaked7232Parent {
+    position: absolute;
+    top: 262.57px;
+    left: 589px;
+    width: 142px;
+    height: 22px;
+  }
+  .readInvestmentStrategy {
+    position: relative;
+    text-decoration: underline;
+    font-weight: 400;
+  }
+  .vectorIcon {
+    position: relative;
+    width: 6.03px;
+    height: 10.62px;
+    flex-shrink: 0;
+  }
+  .readInvestmentStrategyParent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: var(--gap-md);
+  }
+  .frameWrapper,
+  .groupDiv {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 199.03px;
+    height: 22px;
+  }
+  .groupDiv {
+    top: 54px;
+    left: 562px;
+    font-size: var(--font-size-xl);
+    color: var(--color-skyblue);
+  }
+  .frameChild {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-sm);
+    background-color: var(--color-darkslateblue);
+    backdrop-filter: blur(10px);
+    border: 1px solid var(--color-cornflowerblue);
+    box-sizing: border-box;
+    width: 382px;
+    height: 300px;
+  }
+  .latestNews,
+  .rectangleParent {
+    position: absolute;
+    top: 8px;
+    left: 19px;
+  }
+  .rectangleParent {
+    top: 89.57px;
+    left: 781px;
+    border-radius: var(--br-sm);
+    width: 382px;
+    height: 300px;
+    
+    font-size: var(--font-size-3xl);
+  }
+  .groupButton,
+  .part2Child1 {
+    width: 317px;
+    position: absolute;
+    top: 140.07px;
+    left: 116px;
+  }
+  .part2Child1 {
+    width: 310px;
+    left: 452px;
+  }
+  .groupChild,
+  .groupItem {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 646px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+  }
+  .groupChild {
+    background: linear-gradient(
+      225.09deg,
+      rgba(0, 232, 162, 0.25),
+      rgba(0, 173, 232, 0.25)
+    );
+    filter: blur(5px);
+  }
+  .groupItem {
+    background: radial-gradient(
+      50% 50%at 50% 50%,
+      rgba(0, 245, 171, 0.5),
+      rgba(0, 173, 232, 0.5)
+    );
+    border: 0.5px solid var(--color-red);
+    box-sizing: border-box;
+  }
+  .investNow {
+    position: absolute;
+   
+    left: 250px;
+    font-weight: 500;
+    justify-content: center;
+    align-items: center;
+    top: -0.3rem;
+    
+  }
+  .rectangleGroup {
+    position: absolute;
+    top: 90.04px;
+    left: 116px;
+    width: 646px;
+    height: 40px;
+    font-size: var(--font-size-4xl);
+  }
+  .tvl1008430 {
+    position: absolute;
+    top: 228px;
+    left: 612px;
+  }
+  .claimRewardsButtons {
+    width: 217px;
+    position: absolute;
+    top: 345.43px;
+    left: 526px;
+  }
+  .bsharesIcon3,
+  .groupInner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 18px;
+    height: 18px;
+  }
+  .bsharesIcon3 {
+    top: 2px;
+    left: 3px;
+    width: 12px;
+    height: 12px;
+    object-fit: cover;
+  }
+  .ellipseParent {
+    position: absolute;
+    top: 350.57px;
+    left: 696px;
+    width: 18px;
+    height: 18px;
+  }
+  .part2 {
+    position: relative;
+    background-color: var(--color-gray-100);
+    width: 100%;
+    height: 832px;
+   
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    font-family: var(--font-nunito);
+  }
+  .cont{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: var(--color-gray-100);
+    display: flex;
+    bottom: 30rem;
+    justify-content: center;
+    gap: var(--gap-2xl);
+    left: 4rem;
+  }
+  .cont0{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: var(--color-gray-100);
+    display: flex;
+   
+    justify-content: center;
+    gap: var(--gap-2xl);
+    left: 3rem;
+  }
+  
+
+
+  
